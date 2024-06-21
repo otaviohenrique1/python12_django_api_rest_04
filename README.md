@@ -36,6 +36,8 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - pip install validate-docbr
 - pip install Faker
 - pip install django-cors-headers
+- pip install pillow
+- pip install django-redis
 
 ## Exibir pacotes instalados
 
