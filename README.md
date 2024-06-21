@@ -60,6 +60,7 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - python manage.py migrate => roda a migration
 - python manage.py shell => abre o shell do Django
 - python manage.py createsuperuser => cria o super usuario
+- python manage.py makemessages -l pt_BR => cria arquivo de mensagens
 
 ### Comando para criar secret key para o django
 
