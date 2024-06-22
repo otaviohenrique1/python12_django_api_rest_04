@@ -38,6 +38,8 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - pip install django-cors-headers
 - pip install pillow
 - pip install django-redis
+- pip install djangorestframework-xml
+- pip install django-admin-honeypot
 
 ## Exibir pacotes instalados
 
@@ -61,6 +63,8 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - python manage.py shell => abre o shell do Django
 - python manage.py createsuperuser => cria o super usuario
 - python manage.py makemessages -l pt_BR => cria arquivo de mensagens
+- python manage.py compilemessages -l pt_BR => compila arquivo de mensagens
+- python manage.py test => rodar os testes
 
 ### Comando para criar secret key para o django
 
